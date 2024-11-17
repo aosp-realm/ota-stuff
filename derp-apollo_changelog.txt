@@ -1,17 +1,25 @@
+---
+
+Update Changelog - November 14, 2024
+
 ROM Changes:
 - November Security Patch
-- Initial Android 15 Stable release
+- Initial Android 15 Stable Release
 
 Device Changes:
-- Implement OTA updates
-- Fix USB issue when connecting to pc
-- Fix thermal issues
-- Update Vendor security patch
-- Switch back to AOSP sound effects
-- Completely disable blur
-- Increase zram to 4GB
+- Implemented OTA Updates
+- Fixed USB Connectivity Issue when connecting to PC
+- Fixed Thermal HAL issues
+- Update Vendor Security Patch
+- Reverted to AOSP Sound Effects
+- Disabled Blur Effects
+- Increased ZRAM to 4GB
 
-Note:
-- In order to avoid issues with OTA package installation, it is recommended to switch to this recovery (fastboot flash recovery recovery.img)
+Important Note:
+To avoid issues with OTA package installation, it's highly recommend switching to this recovery:
+https://github.com/dogpoopy/crave_build/releases/download/11848601210/recovery.img
 
-  https://github.com/dogpoopy/crave_build/releases/download/11848601210/recovery.img
+Installation Command:
+fastboot flash recovery recovery.img
+
+---
