@@ -1,3 +1,22 @@
+Update Changelog - November 18, 2024
+
+ROM Changes:
+- Update to Android 15 tag android-15.0.0_r5
+- Bring back QS Background Opacity
+- Improve Settings header design
+- Various fixes and improvements
+
+Device Changes:
+- Optimize Display post processing
+- Update some blobs to CLO
+
+Important Note:
+To avoid issues with OTA package installation, it's highly recommend switching to this recovery:
+https://github.com/dogpoopy/crave_build/releases/download/11884071782/recovery.img
+
+Installation Command:
+fastboot flash recovery recovery.img
+
 ---
 
 Update Changelog - November 14, 2024
