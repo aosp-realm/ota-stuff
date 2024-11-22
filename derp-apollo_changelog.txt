@@ -1,18 +1,3 @@
-Update Changelog - Upcoming
-
-ROM Changes:
-- Update to Android 15 tag android-15.0.0_r5
-- Bring back QS Background Opacity
-- Improve Settings header design
-- Various fixes and improvements
-
-Device Changes:
-- Optimize Display post processing
-- Update some blobs to CLO
-
-Recommended Recovery:
-https://sourceforge.net/projects/aosp-realm/files/Mi10T/A15-Recovery/OrangeFox-apollo-fox_12.1-15.0.img/download
-
 ---
 
 Update Changelog - November 14, 2024
