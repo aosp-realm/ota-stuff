@@ -1,4 +1,4 @@
-Update Changelog - November 18, 2024
+Update Changelog - Upcoming
 
 ROM Changes:
 - Update to Android 15 tag android-15.0.0_r5
@@ -10,12 +10,8 @@ Device Changes:
 - Optimize Display post processing
 - Update some blobs to CLO
 
-Important Note:
-To avoid issues with OTA package installation, it's highly recommend switching to this recovery:
-https://github.com/dogpoopy/crave_build/releases/download/11884071782/recovery.img
-
-Installation Command:
-fastboot flash recovery recovery.img
+Recommended Recovery:
+https://sourceforge.net/projects/aosp-realm/files/Mi10T/A15-Recovery/OrangeFox-apollo-fox_12.1-15.0.img/download
 
 ---
 
@@ -34,11 +30,7 @@ Device Changes:
 - Disabled Blur Effects
 - Increased ZRAM to 4GB
 
-Important Note:
-To avoid issues with OTA package installation, it's highly recommend switching to this recovery:
-https://github.com/dogpoopy/crave_build/releases/download/11848601210/recovery.img
-
-Installation Command:
-fastboot flash recovery recovery.img
+Recommended Recovery:
+https://sourceforge.net/projects/aosp-realm/files/Mi10T/A15-Recovery/OrangeFox-apollo-fox_12.1-15.0.img/download
 
 ---
